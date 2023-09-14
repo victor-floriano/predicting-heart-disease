@@ -77,8 +77,4 @@ To run the project and reproduce the analysis, follow these steps:
 - TAYLOR LEGGETT
 - VICTOR FLORIANO
 
-## Contact Information
-
-For any questions or feedback regarding this project, please feel free to contact the project contributors.
-
-Thank you for your interest in our project! We hope you find the analysis and predictive models valuable for understanding and addressing heart disease-related challenges.
+Thank you for your interest in our project! We hope you find the analysis and predictive models valuable for understanding machine learning algorithms and their value as predictive tools in health care.
